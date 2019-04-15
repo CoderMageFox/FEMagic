@@ -1,0 +1,23 @@
+{
+  "name": "femagic",
+  "version": "0.0.1",
+  "description": "A electron application to speedup your FE develop speed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderMageFox/FEMagic.git"
+  },
+  "author": "CoderMageFox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CoderMageFox/FEMagic/issues"
+  },
+  "homepage": "https://github.com/CoderMageFox/FEMagic#readme",
+  "devDependencies": {
+    "electron": "^4.1.4"
+  }
+}
